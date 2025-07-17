@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="__SQLEXPRESS.Northwind"
+  DTS:DTSID="{F850A105-6982-47BA-BAAE-A34C0653A3AF}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Northwind;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Cargar de dimensiones del almacén de datos-{F850A105-6982-47BA-BAAE-A34C0653A3AF}.\SQLEXPRESS.Northwind;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
